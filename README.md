@@ -14,3 +14,4 @@ The Xylophone Swift App is a simple and fun musical instrument app that allows u
 Acknowledgments:
 
 Huge thanks to the Dr. Angela Yu - creator of the original Xylophone App.
+![Simulator Screenshot - iPhone 15 - 2023-10-12 at 20 43 21](https://github.com/nigarixx/Xylophone-iOS13/assets/105124936/db4b9044-1197-49bc-81f8-5838c2af4d54)
